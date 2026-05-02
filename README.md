@@ -6,5 +6,5 @@
 - Detecção de borda para evitar leituras duplicadas
 - Monitoramento via Serial Monitor
 
-- 
+
 
